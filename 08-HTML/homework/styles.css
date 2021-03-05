@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1{
+    color: red;
+}
+
+
+img{
+    width: 400px;
+}
+
+
+#thirdDiv{
+    
+    min-height: 600px;
+    padding: 50px;
+    min-width: 500px;
+    background-color: rosybrown;
+    border: 1px dotted royalblue;
+}
+
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
